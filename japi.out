@@ -1,0 +1,17 @@
+Script started on 2019-10-21 20:21:38-0400
+]0;david@DESKTOP-MQ1EP5J: ~[01;32mdavid@DESKTOP-MQ1EP5J[00m:[01;34m~[00m$ python3 japi.py
+Enter a stock symbol: aapl
+The current price of aapl is: $240.5000
+Enter another stock symbol: celg
+The current price of celg is: $103.3800
+Enter another stock symbol: sbux
+The current price of sbux is: $85.3000
+Enter another stock symbol: nke
+The current price of nke is: $96.2300
+Enter another stock symbol: vz
+The current price of vz is: $60.7350
+Enter another stock symbol: quit
+]0;david@DESKTOP-MQ1EP5J: ~[01;32mdavid@DESKTOP-MQ1EP5J[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2019-10-21 20:22:28-0400
