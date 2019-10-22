@@ -6,6 +6,7 @@ def main():
     user_input = input("Enter a stock symbol: ")
     while (user_input != "quit"):
         print("The current price of " + user_input +  " is: $" + getStockData(user_input))
+        print("Stock quote retrieved successfully")
         user_input = input("Enter another stock symbol: ")
 
 
